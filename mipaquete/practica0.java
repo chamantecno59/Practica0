@@ -2,15 +2,18 @@ package mipaquete;
  import java.util.Sacnner;
 import java.util.Scanner;
 public class Practica0{
- Static Sacnner = new Scanner(System.in);
+ Static Scanner =input new Scanner(System.in);
 Static void run(){
     string nombre;
+  System.out.println("ingresa un nombre");
+        nombre = input.nextLine();
+    System.out.printf("bienvenido el curso de poo\n",nombre);
     
 
 
 
 
 }
-public static void main (String) arg[]){
+public static void main (String arg[]){
 run();
 }}
